@@ -1,0 +1,225 @@
+    1  git init
+    2  git status
+    3  pwd
+    4  ls
+    5  cd OSS
+    6  pwd
+    7  ls
+    8  cd..
+    9  ls-1
+   10  ls-l
+   11  git --version
+   12  git config --list
+   13  git config --global user.name "Jiwon Kim"
+   14  git config --global user.email jiwonkim0531@gachon.ac.kr
+   15  git config --list
+   16  ls
+   17  git init
+   18  ls -lha
+   19  pwd
+   20  ls
+   21  cd Documents
+   22  pwd
+   23  ls
+   24  cd..
+   25  pwd
+   26  cd Documents/My Pictures
+   27  ls
+   28  cd ../neuralintlab
+   29  pwd
+   30  ls
+   31  cd source
+   32  pwd
+   33  ls
+   34  cd ..
+   35  pwd
+   36  cd source/repos
+   37  ls
+   38  pwd
+   39  pwd
+   40  ls
+   41  pwd
+   42  ls
+   43  cd Documents
+   44  pwd
+   45  ls
+   46  cd ..
+   47  pwd
+   48  cd Documents/My Music
+   49  cd OSS
+   50  pwd
+   51  ls
+   52  cd Contacts
+   53  pwd
+   54  ls
+   55  cd ..
+   56  cd Contacts/desktop.ini
+   57  cd Documents
+   58  pwd
+   59  ls
+   60  cd ..
+   61  pwd
+   62  cd Documents/My Videos
+   63  cd Documents/My Music
+   64  cd Documents/My Pictures
+   65  cd ..
+   66  cd AppData
+   67  cd Downloads
+   68  pwd
+   69  ls
+   70  cd Recent
+   71  pwd
+   72  ls
+   73  pwd
+   74  ls
+   75  cd source
+   76  pwd
+   77  ls
+   78  cd ..
+   79  pwd
+   80  cd source/repos
+   81  pwd
+   82  ls
+   83  cd ../neuralintlab
+   84  pwd
+   85  ls -l
+   86  ls -lh
+   87  cd ..
+   88  ls -lh
+   89  ls
+   90  cd n
+   91  ls
+   92  ls repos
+   93  clear
+   94  pwd
+   95  ls
+   96  cp repos
+   97  pwd
+   98  ls
+   99  mv repos ../neuralintlab
+  100  ls
+  101  ls
+  102  pwd
+  103  ls
+  104  pwd
+  105  pwd
+  106  ls
+  107  pwd
+  108  ls
+  109  cd source
+  110  pwd
+  111  ls
+  112  cd Searches
+  113  cd ..
+  114  pwd
+  115  cd Videos
+  116  pwd
+  117  ls
+  118  '/c/Users/jiwon/OneDrive/바탕 화면/OSS'
+  119  /c/Users/jiwon/OneDrive/OSS
+  120  pwd
+  121  cd ..
+  122  pwd
+  123  ls
+  124  cd OneDrive
+  125  ls
+  126  cd OneDrive/OSS
+  127  cd ..
+  128  pwd
+  129  ls
+  130  cd OneDrive
+  131  pwd
+  132  ls
+  133  cd ..
+  134  pwd
+  135  cd OneDrive/OSS
+  136  pwd
+  137  ls
+  138  clear
+  139  pwd
+  140  ls
+  141  cp transformers backup_transformers
+  142  ls
+  143  cp transformerspwd
+  144  pwd
+  145  ls
+  146  pwd
+  147  ls
+  148  ls
+  149  ls
+  150  pwd
+  151  cd OneDrive/OSS
+  152  pwd
+  153  ls
+  154  '/c/Users/jiwon/OneDrive/바탕 화면/OSS'
+  155  '/c/Users/jiwon/OneDrive/바탕 화면/OSS'
+  156  ls
+  157  pwd
+  158  ls
+  159  cd OneDrive
+  160  ls
+  161  cd ..
+  162  pwd
+  163  cd OneDrive/OSS
+  164  pwd
+  165  ls
+  166  '/c/Users/jiwon/OneDrive/바탕 화면/OSS'
+  167  ls
+  168  ls
+  169  ls
+  170  ls
+  171  mkdir new_directory
+  172  ls
+  173  rm 개인과제1 202334444 김지원.py
+  174  ls
+  175  mkdir transformers
+  176  exit
+  177  pwd
+  178  cd OneDrive/OSS
+  179  pwd
+  180  ls -lh
+  181  ls -lh > file_list.txt
+  182  cat file_list.txt
+  183  ls -lh >> file_list.txt
+  184  cat file_list.txt
+  185  cat words.txt
+  186  school
+  187  cat words.txt
+  188  cat words.txt
+  189  cat words.txt
+  190  cat
+  191  cat words
+  192  sor < words.txt > sorted_words.txt
+  193  cd OneDrive/OSS
+  194  pwd
+  195  pwd
+  196  ls
+  197  cs OneDrive/OSS
+  198  pwd
+  199  ls
+  200  cd OneDrive
+  201  pwd
+  202  cd ..
+  203  pwd
+  204  cd OneDrive/OSS
+  205  pwd
+  206  ls -lh
+  207  ls -lh > file_list.txt
+  208  cat file_list.txt
+  209  ls -lh >> file_list.txt
+  210  cat file_list.txt
+  211  cat words.txt
+  212  school
+  213  sor < words.txt > sorted_words.txt
+  214  cat sorted_words.txt
+  215  ls -lh | less
+  216  echo print out the text
+  217  echo *
+  218  ehco ~
+  219  echo ~jiwon
+  220  ls -l --reverse  --human-readable
+  221  chmod 644 words.txt
+  222  ls -lh
+  223  nano myscript.sh
+  224  sh test.sh
+  225  history > history_command.txt

@@ -1,0 +1,6 @@
+cat words
+school
+class
+home
+new
+lecture
